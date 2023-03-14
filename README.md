@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# anumericoI_2023
 Repositorio de Análisis Numérico I de FaMAF
 =======
 # Repositorio de los Laboratorios de Análisis Numérico / Análisis Numérico I de FAMAF, UNC.
 =======
 # Repositorio de los Laboratorios de Análisis Numérico I de FAMAF, UNC.
->>>>>>> 3a1665b (initial commit)
+
 
 Para los Laboratorios de la materia, vamos a utilizar el lenguaje de programación Python 3.X (donde X puede ser cualquier número mayor o igual a 5).
 
@@ -19,4 +16,3 @@ Para los Laboratorios de la materia, vamos a utilizar el lenguaje de programaci�
 
 - 2020: https://www.youtube.com/watch?v=aLxVSg7eSMQ&list=PLPisXeKom-sDFTH2z6sSGK7Nwsgt2JRBo
 - 2021: https://www.youtube.com/watch?v=KKzi2FX3CK4&list=PLPisXeKom-sCDvaienLHx-8TUr9AFXKwg
->>>>>>> ffbf022 (initial commit)
