@@ -1,6 +1,3 @@
-
-# Repositorio de los Laboratorios de Análisis Numérico / Análisis Numérico I de FAMAF, UNC.
-=======
 # Repositorio de los Laboratorios de Análisis Numérico I de FAMAF, UNC.
 
 
