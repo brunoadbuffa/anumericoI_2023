@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # anumericoI_2023
 Repositorio de Análisis Numérico I de FaMAF
 =======
 # Repositorio de los Laboratorios de Análisis Numérico / Análisis Numérico I de FAMAF, UNC.
+=======
+# Repositorio de los Laboratorios de Análisis Numérico I de FAMAF, UNC.
+>>>>>>> 3a1665b (initial commit)
 
 Para los Laboratorios de la materia, vamos a utilizar el lenguaje de programación Python 3.X (donde X puede ser cualquier número mayor o igual a 5).
 
@@ -11,7 +15,7 @@ Para los Laboratorios de la materia, vamos a utilizar el lenguaje de programaci�
 - Para poder crear el código que van a ejecutar, les recomendamos utilizar Visual Studio Code: https://code.visualstudio.com/. Este editor tiene la capacidad de agregar extensiones que facilitan un poco el trabajo con Python, pueden buscar la extensión llamada Python que aparece en la sección de Extensiones una vez que tengan instalado VSCode.
 - Para aquellas personas que solamente puedan usar el celular para realizar los laboratorios, es posible descargar la aplicación Google Colab Android View ([Enlace a Google Play](https://play.google.com/store/apps/details?id=com.WeDevelopinPk.colabandroidwebview)), que les permite utilizar y ejecutar código Python en celdas.
 
-## Playlists de Clases de Ediciones Anteriores
+## Clases de Ediciones Anteriores
 
 - 2020: https://www.youtube.com/watch?v=aLxVSg7eSMQ&list=PLPisXeKom-sDFTH2z6sSGK7Nwsgt2JRBo
 - 2021: https://www.youtube.com/watch?v=KKzi2FX3CK4&list=PLPisXeKom-sCDvaienLHx-8TUr9AFXKwg
