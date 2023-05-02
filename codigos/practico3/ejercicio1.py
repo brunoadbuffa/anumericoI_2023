@@ -24,6 +24,10 @@ def test_ilagrange():
     z = [-5, 1, 3]
 
     w = ilagrange(x, y, z)
+    return w
+    
+w = test_ilagrange()
+print(w)
 
 # Ejecutar test_ilagrange debería devolvernos la lista [25, 1, 9]
 # test_ilagrange()
